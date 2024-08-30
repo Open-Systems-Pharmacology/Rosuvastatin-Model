@@ -1,6 +1,6 @@
 ### 2.2.1 In vitro and physicochemical data
 
-A literature search was performed to collect available information on physicochemical properties of rosuvastatin. The obtained information from literature is summarized in the table below, and is used for model building.
+A literature search was performed to collect available information on physicochemical properties of rosuvastatin. The obtained information from literature is summarized in the table below, and is used for model building. Final model parameters are stated in [Section 3.1](#31-probenecid-final-input-parameters).
 
 | **Parameter**           | **Unit** | **Value** | Source                               | **Description**                                              |
 | :---------------------- | -------- | --------- | ------------------------------------ | ------------------------------------------------------------ |

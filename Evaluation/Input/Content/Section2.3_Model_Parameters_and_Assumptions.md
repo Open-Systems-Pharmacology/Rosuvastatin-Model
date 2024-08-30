@@ -49,17 +49,17 @@ Additionally, passive renal clearance by glomerular filtration was implemented a
 
 This is the result of the final parameter identification:
 
-| Model Parameter                | Optimized Value | Unit      |
-| ------------------------------ | --------------- | --------- |
-| `kcat` (BCRP)                 | 1.00          | 1/min |
-| `kcat` (CYP2C9)             |     9.90E-4        |  1/min         |
-| `kcat` (OATP1B1/3)                | 748.37      | 1/min     |
-| `kcat` (Pgp)                    | 29.21          | 1/min    |
-| `kcat` (OAT3)                  | 43833.14       | 1/min     |
-| `kcat` (OATP2B1)                  | 2.97         | 1/min     |
-| `Specific intestinal permeability`| 1.22E-6    | cm/min    |
-| `P(intracell->interstitial) small intestine`| 7.39E-4     | cm/min       |
-| `P(intracell->interstitial) small intestine`| 7.07E-6        | cm/min       |
+| Model Parameter                |
+| ------------------------------ | 
+| `kcat` (BCRP)                 |
+| `kcat` (CYP2C9)             | 
+| `kcat` (OATP1B1/3)            |
+| `kcat` (Pgp)                    | 
+| `kcat` (OAT3)                  | 
+| `kcat` (OATP2B1)                  |
+| `Specific intestinal permeability`| 
+| `P(intracell->interstitial) small intestine`|
+| `P(intracell->interstitial) small intestine`|
 
 
  

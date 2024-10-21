@@ -47,7 +47,7 @@ Additionally, passive renal clearance by glomerular filtration was implemented a
 
 ### 2.3.4 Automated Parameter Identification
 
-This is the result of the final parameter identification:
+The following parameters were optimized by fitting the model to the data:
 
 | Model Parameter                |
 | ------------------------------ | 

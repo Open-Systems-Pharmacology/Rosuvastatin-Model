@@ -12,4 +12,4 @@ The presented model includes the following features:
 - transport by Pgp,
 - transport by OAT3,
 - renal clearance by glomerular filtration,
-- oral absorption with dissolution rate assigned to the Weibull function.
+- oral absorption with dissolution rate described by a Weibull function.

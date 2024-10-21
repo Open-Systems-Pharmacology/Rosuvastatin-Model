@@ -6,7 +6,7 @@ The model has then been evaluated by comparing observed data to simulations of b
 The presented model includes the following features:
 
 - metabolism by CYP2C9,
-- transport by OATP1B1 and OATP1B3,
+- transport by OATP1B1 and OATP1B3 (lumped together for identifiability),
 - transport by BCRP,
 - transport by OATP2B1,
 - transport by Pgp,

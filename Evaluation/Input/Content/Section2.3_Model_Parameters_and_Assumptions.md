@@ -20,7 +20,7 @@ One metabolic pathway was implement into the model via Michaelis-Menten kinetics
 
 The CYP2C9 expression profiles is based on high-sensitive real-time RT-PCR ([Nishimura 2003](#5-references)). Metabolic enzyme activity was described as saturable process following Michaelis-Menten kinetics, were the `Km` was taken from literature and the `kcat` was optimized based on clinical data (see [Section 2.3.4](#234-automated-parameter-identification)).
 
-And several transport protein was implemented into the model via Michaelis-Menten kinetics 
+The following transport proteins were implemented into the model with the Michaelis-Menten kinetics 
 
 * OAT3
 

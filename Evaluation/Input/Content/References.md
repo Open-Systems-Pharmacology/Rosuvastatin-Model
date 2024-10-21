@@ -26,6 +26,8 @@
 
 **Gosai 2008** Gosai P, Liu J, Doyle RT, Johnson J, Carter R, Sica D, McKenney JM (2008) Effect of omega-3-acid ethyl esters on the steady-state plasma pharmacokinetics of rosuvastatin in healthy adults. *Expert opinion on pharmacotherapy* *9*(17):2947–53
 
+**Hanke 2018** Hanke N, Frechen S, Moj D, Britz H, Eissing T, Wendl T, Lehr T (2018) PBPK models for CYP3A4 and P-gp DDI prediction: A modeling network of rifampicin, itraconazole, clarithromycin, midazolam, alfentanil, and digoxin. CPT: Pharmacometrics & Systems Pharmacology 7(10):647–659
+
 **Huguet 2016** Huguet J, Lu J, Gaudette F, Chiasson JL, Hamet P, Michaud V, Turgeon J (2016) No effects of pantoprazole on the pharmacokinetics of rosuvastatin in healthy subjects. *European journal of clinical pharmacology* *72*(8):925–31
 
 **Jones 2012** Jones HM, Barton HA, Lai Y, Bi YA, Kimoto E, Kempshall S, Tate SC, El-Kattan A, Houston JB, Galetin A, Fenner KS (2012) Mechanistic pharmacokinetic modeling for the prediction of transporter-mediated disposition in humans from sandwich culture human hepatocyte data. *Drug metabolism and disposition: the biological fate of chemicals* *40*(5):1007–17
@@ -61,6 +63,8 @@
 **Meyer 2012** Meyer M, Schneckener S, Ludewig B, Kuepfer L, Lippert J. (2012). Using expression data for quantification of active processes in physiologically based pharmacokinetic modeling. *Drug Metab Dispos*. May;40(5), 892-901.
 
 **Nishimura 2003** Nishimura M, Yaguti H, Yoshitsugu H, Naito S, Satoh T. (2003). Tissue distribution of mRNA expression of human cytochrome P450 isoforms assessed by high-sensitivity real-time reverse transcription PCR. *Yakugaku Zasshi.* May;123(5), 369-75.
+
+**Prasad 2014** Prasad B, Evers R, Gupta A, Hop CECA, Salphati L, Shukla S, Ambudkar SV, Unadkat JD (2014) Interindividual variability in hepatic organic anion-transporting polypeptides and PGlycoprotein (ABCB1) protein expression: Quantification by liquid chromatography tandem mass spectroscopy and influence of genotype, age, and sex. Drug Metabolism and Disposition 42(1):78–88
 
 **Prueksaritanont 2014**  Prueksaritanont T, Chu X, Evers R, Klopfer SO, Caro L, Kothare PA, Dempsey C, Rasmussen S, Houle R, Chan G, Cai X, Valesky R, Fraser IP, Stoch SA (2014) Pitavastatin is a more sensitive and selective organic anion-transporting polypeptide 1B clinical probe than rosuvastatin. *British journal of clinical pharmacology* *78*(3):587–98
 

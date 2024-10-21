@@ -32,11 +32,11 @@ The BCRP expression profiles is based on whole genome expression arrays from Arr
 
 * Pgp
 
-The Pgp expression profiles is based on high-sensitive real-time RT-PCR ([Nishimura 2003](#5-references)) with an intestinal mucosa of factor 3.57 ([47](#5-references)). Transporter activity was described as saturable process following Michaelis-Menten kinetics, were the `Km` was taken from literature and `kcat` was optimized based on clinical data (see [Section 2.3.4](#234-automated-parameter-identification)).
+The Pgp expression profiles is based on high-sensitive real-time RT-PCR ([Nishimura 2003](#5-references)) with an intestinal mucosa of factor 3.57 ([Hanke 2018](#5-references)). Transporter activity was described as saturable process following Michaelis-Menten kinetics, were the `Km` was taken from literature and `kcat` was optimized based on clinical data (see [Section 2.3.4](#234-automated-parameter-identification)).
 
 * OATP1B1/3
 
-For OATP1B1/3 the expression profiles was considered only for OATP1B1 and is based on high-sensitive real-time RT-PCR ([Nishimura 2003](#5-references)). Transporter activity was described as saturable process following Michaelis-Menten kinetics, were the `Km` was taken from literature and `kcat` was optimized based on clinical data (see [Section 2.3.4](#234-automated-parameter-identification)).
+For OATP1B1/3 the expression profiles was considered only for OATP1B1 and is based on high-sensitive real-time RT-PCR ([Nishimura 2003](#5-references)). The reference concentration for OATP1B1 was measured by liquid chromatography tandem mass spectroscopy ([Prasad 2014](#5-references)). Transporter activity was described as saturable process following Michaelis-Menten kinetics, were the `Km` was taken from literature and `kcat` was optimized based on clinical data (see [Section 2.3.4](#234-automated-parameter-identification)).
 
 * OATP2B1
 

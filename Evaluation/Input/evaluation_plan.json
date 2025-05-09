@@ -1,0 +1,670 @@
+﻿{
+    "$schema": "https://github.com/Open-Systems-Pharmacology/QualificationPlan/releases/download/v3.1/OSP_Qualification_Plan_Schema.json",
+    "Projects": [
+        {
+            "Id": "Rosuvastatin",
+            "Path": "../../Rosuvastatin-Model.json",
+            "BuildingBlocks": []
+        }
+    ],
+    "ObservedDataSets": [],
+    "Plots": {
+        "PlotSettings": {
+            "ChartWidth": 500,
+            "ChartHeight": 400,
+            "Fonts": {
+                "AxisSize": 11,
+                "LegendSize": 9,
+                "OriginSize": 9,
+                "FontFamilyName": "Arial",
+                "WatermarkSize": 40
+            }
+        },
+        "AxesSettings": {
+            "ComparisonTimeProfile": [
+                {
+                    "Unit": "h",
+                    "Dimension": "Time",
+                    "Type": "X",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                },
+                {
+                    "Unit": "µg/l",
+                    "Dimension": "Concentration (mass)",
+                    "Type": "Y",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ],
+            "DDIRatioPlotsPredictedVsObserved": [
+                {
+                    "Unit": "",
+                    "Dimension": "Dimensionless",
+                    "Type": "X",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                },
+                {
+                    "Unit": "",
+                    "Dimension": "Dimensionless",
+                    "Type": "Y",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ],
+            "DDIRatioPlotsResidualsVsObserved": [
+                {
+                    "Unit": "",
+                    "Dimension": "Dimensionless",
+                    "Type": "X",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                },
+                {
+                    "Unit": "",
+                    "Dimension": "Dimensionless",
+                    "Type": "Y",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                }
+            ],
+            "GOFMergedPlotsPredictedVsObserved": [
+                {
+                    "Unit": "µg/l",
+                    "Dimension": "Concentration (mass)",
+                    "Type": "X",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                },
+                {
+                    "Unit": "µg/l",
+                    "Dimension": "Concentration (mass)",
+                    "Type": "Y",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ],
+            "GOFMergedPlotsResidualsOverTime": [
+                {
+                    "Unit": "h",
+                    "Dimension": "Time",
+                    "Type": "X",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                },
+                {
+                    "Unit": "",
+                    "Dimension": "Dimensionless",
+                    "Type": "Y",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                }
+            ],
+            "PKRatioPlots": [
+                {
+                    "Unit": "year(s)",
+                    "Dimension": "Age",
+                    "Type": "X",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                },
+                {
+                    "Unit": "",
+                    "Dimension": "Dimensionless",
+                    "Type": "Y",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ]
+        },
+        "AllPlots": [
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "iv  0.00174 mg, Billington 2019, bolus, n=1",
+                "SectionId": 331
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "iv  8.0 mg, Martin 2003c, 4 h, n=10",
+                "SectionId": 331
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 10 mg, Cooper 2003b, caps, n=12",
+                "SectionId": 332
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 10 mg, Coss 2016, -, n=49",
+                "SectionId": 332
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 10 mg, Csonka 2019, tab, n=20",
+                "SectionId": 332
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 10 mg, Huguet 2016, tab, n=16",
+                "SectionId": 332
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 10 mg, Martin 2003b, tab, n=18",
+                "SectionId": 332
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 10 mg, Stopfer 2016, tab, n=19",
+                "SectionId": 331
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 10 mg, Stopfer 2018a, tab, n=13",
+                "SectionId": 331
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 10 mg, Stopfer 2018b, tab, n=25",
+                "SectionId": 332
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 20 mg, Birmingham 2015, -, n=29",
+                "SectionId": 332
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 20 mg, Edwards 2017, tab, n=48",
+                "SectionId": 332
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 20 mg, FDA 2002, caps, n=6",
+                "SectionId": 331
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 20 mg, Jones 2020, -, n=16",
+                "SectionId": 332
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 20 mg, Lee 2018, -, n=35",
+                "SectionId": 332
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 20 mg, Martin 2003b, tab, n=9",
+                "SectionId": 332
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 20 mg, Martin 2003d, sol, n=6",
+                "SectionId": 332
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 20 mg, Martin 2016, -, n=21",
+                "SectionId": 332
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 20 mg, Willis 2020, -, n=31",
+                "SectionId": 332
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 40 mg, Gidal 2017, tab, n=33",
+                "SectionId": 331
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 40 mg, Lee 2005, -, n=36",
+                "SectionId": 332
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 40 mg, Martin 2002a, caps, female, n=8",
+                "SectionId": 332
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 40 mg, Martin 2002a, caps, male, n=8",
+                "SectionId": 332
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 40 mg, Martin 2003b, tab, n=9",
+                "SectionId": 332
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 40 mg, Martin 2003c, tab, n=10",
+                "SectionId": 331
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 80 mg, Cooper 2002, tab, n=14",
+                "SectionId": 332
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 80 mg, Cooper 2003a, tab, n=13",
+                "SectionId": 331
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 80 mg, Cooper 2003b, tab, n=14",
+                "SectionId": 332
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 80 mg, Cooper 2003c, tab, n=14",
+                "SectionId": 332
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 80 mg, Martin 2003b, tab, n=18",
+                "SectionId": 332
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 10 mg QD, Kosoglou 2004, -, n=12",
+                "SectionId": 332
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 10 mg QD, Martin 2002b, -, n=21",
+                "SectionId": 332
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 20 mg QD, FDA 2002, caps, n=6",
+                "SectionId": 332
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 20 mg QD, FDA 2018, -, n=10",
+                "SectionId": 332
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 20 mg QD, Lee 2018, -, n=32",
+                "SectionId": 331
+            },
+            {
+                "Project": "Rosuvastatin",
+                "Simulation": "po 40 mg QD, Gosai 2008, -, n=42",
+                "SectionId": 331
+            }
+        ],
+        "GOFMergedPlots": [
+            {
+                "Title": "Goodness of fit plot for concentration in plasma.",
+                "SectionId": 32,
+                "Artifacts": [
+                    "Plot",
+                    "GMFE",
+                    "Measure"
+                ],
+                "PlotType": "predictedVsObserved|residualsOverTime",
+                "Groups": [
+                    {
+                        "Caption": "Rosuvastatin iv (model building)",
+                        "Symbol": "Circle",
+                        "OutputMappings": [
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "iv  8.0 mg, Martin 2003c, 4 h, n=10",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Martin 2003c - IV 8 mg control - Rosuvastatin - IV - 8 mg - Plasma - agg. (n=10)",
+                                "Color": "#000000"
+                            }
+                        ]
+                    },
+                    {
+                        "Caption": "Rosuvastatin oral administration (model building)",
+                        "Symbol": "Diamond",
+                        "OutputMappings": [
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 10 mg, Stopfer 2016, tab, n=19",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Stopfer 2016 - PO Rosuvastatin 10 mg control - Rosuvastatin - PO - 10 mg - Plasma - agg. (n=19)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 10 mg, Stopfer 2018a, tab, n=13",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Stopfer 2018a - PO Rosuvastatin 10 mg control - Rosuvastatin - PO - 10 mg - Plasma - agg. (n=13)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 20 mg, FDA 2002, caps, n=6",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "FDA 2002 - PO Rosuvastatin 20 mg control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 40 mg, Gidal 2017, tab, n=33",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Gidal 2017 - PO Rosuvastatin 40 mg control - Rosuvastatin - PO - 40 mg - Plasma - agg. (n=33)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 40 mg, Martin 2003c, tab, n=10",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Martin 2003c - PO Rosuvastatin 40 mg control - Rosuvastatin - PO - 40 mg - Plasma - agg. (n=10)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 80 mg, Cooper 2003a, tab, n=13",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Cooper 2003a - PO Rosuvastatin 80 mg control - Rosuvastatin - PO - 80 mg - Plasma - agg. (n=13)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 20 mg QD, Lee 2018, -, n=32",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Lee 2018 - PO Rosuvastatin 20 mg QD control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=32)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 40 mg QD, Gosai 2008, -, n=42",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Gosai 2008 - PO Rosuvastatin 40 mg QD control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=42)",
+                                "Color": "#000000"
+                            }
+                        ]
+                    },
+                    {
+                        "Caption": "Rosuvastatin oral administration (model verification)",
+                        "Symbol": "Triangle",
+                        "OutputMappings": [
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 10 mg, Cooper 2003b, caps, n=12",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Cooper 2003b - PO Rosuvastatin 10 mg control - Rosuvastatin - PO - 10 mg - Plasma - agg. (n=12)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 10 mg, Coss 2016, -, n=49",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Coss 2016 - PO Rosuvastatin 10 mg control - Rosuvastatin - PO - 10 mg - Plasma - agg. (n=49)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 10 mg, Csonka 2019, tab, n=20",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Csonka 2019 - PO Rosuvastatin 10 mg control - Rosuvastatin - PO - 10 mg - Plasma - agg. (n=20)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 10 mg, Huguet 2016, tab, n=16",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Huguet 2016 - PO Rosuvastatin 10 mg control - Rosuvastatin - PO - 10 mg - Plasma - agg. (n=16)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 10 mg, Martin 2003b, tab, n=18",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Martin 2003b - PO Rosuvastatin 10 mg control - Rosuvastatin - PO - 10 mg - Plasma - agg. (n=18)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 10 mg, Stopfer 2018b, tab, n=25",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Stopfer 2018a - PO Rosuvastatin 10 mg control - Rosuvastatin - PO - 10 mg - Plasma - agg. (n=13)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 20 mg, Birmingham 2015, -, n=29",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Birmingham 2015 - PO Rosuvastatin 20 mg control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=29)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 20 mg, Edwards 2017, tab, n=48",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Edwards 2017 - PO Rosuvastatin 20 mg control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=48)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 20 mg, Jones 2020, -, n=16",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Jones 2020 - PO Rosuvastatin 20 mg control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=16)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 20 mg, Lee 2018, -, n=35",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Lee 2018 - PO Rosuvastatin 20 mg control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=35)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 20 mg, Martin 2003b, tab, n=9",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Martin 2003b - PO Rosuvastatin 20 mg control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=9)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 20 mg, Martin 2003d, sol, n=6",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Martin 2003d - PO Rosuvastatin 20 mg control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 20 mg, Martin 2016, -, n=21",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Martin 2016 - PO Rosuvastatin 20 mg control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=21)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 20 mg, Willis 2020, -, n=31",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Willis 2020 - PO Rosuvastatin 20 mg control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=31)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 40 mg, Lee 2005, -, n=36",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Lee 2005 - PO Rosuvastatin 40 mg control - Rosuvastatin - PO - 40 mg - Plasma - agg. (n=36)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 40 mg, Martin 2002a, caps, female, n=8",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Martin 2002a - PO Rosuvastatin 40 mg control female - Rosuvastatin - PO - 40 mg - Plasma - agg. (n=8)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 40 mg, Martin 2002a, caps, male, n=8",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Martin 2002a - PO Rosuvastatin 40 mg control male - Rosuvastatin - PO - 40 mg - Plasma - agg. (n=8)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 40 mg, Martin 2003b, tab, n=9",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Martin 2003b - PO Rosuvastatin 40 mg control - Rosuvastatin - PO - 40 mg - Plasma - agg. (n=9)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 80 mg, Cooper 2002, tab, n=14",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Cooper 2002 - PO Rosuvastatin 80 mg control - Rosuvastatin - PO - 80 mg - Plasma - agg. (n=14)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 80 mg, Cooper 2003b, tab, n=14",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Cooper 2003b - PO Rosuvastatin 80 mg control - Rosuvastatin - PO - 80 mg - Plasma - agg. (n=14)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 80 mg, Cooper 2003c, tab, n=14",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Cooper 2003c - PO Rosuvastatin 80 mg control - Rosuvastatin - PO - 80 mg - Plasma - agg. (n=14)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 80 mg, Martin 2003b, tab, n=18",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Martin 2003b - PO Rosuvastatin 80 mg control - Rosuvastatin - PO - 80 mg - Plasma - agg. (n=18)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 10 mg QD, Kosoglou 2004, -, n=12",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Kosoglou 2004 - PO Rosuvastatin 10 mg QD control - Rosuvastatin - PO - 10 mg - Plasma - agg. (n=12)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 10 mg QD, Martin 2002b, -, n=21",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Martin 2002b - PO Rosuvastatin 10 mg QD control - Rosuvastatin - PO - 10 mg - Plasma - agg. (n=21)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 20 mg QD, FDA 2002, caps, n=6",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "FDA 2002 - PO Rosuvastatin 20 mg QD control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Rosuvastatin",
+                                "Simulation": "po 20 mg QD, FDA 2018, -, n=10",
+                                "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "FDA 2018 - PO Rosuvastatin 20 mg control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=10)",
+                                "Color": "#000000"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "ComparisonTimeProfilePlots": [],
+        "DDIRatioPlots": [],
+        "PKRatioPlots": []
+    },
+    "Inputs": [
+        {
+            "Project": "Rosuvastatin",
+            "Name": "Rosuvastatin",
+            "Type": "Compound",
+            "SectionId": 31
+        }
+    ],
+    "Sections": [
+        {
+            "Id": 1,
+            "Title": "Introduction",
+            "Content": "Content/Section1_Introduction.md"
+        },
+        {
+            "Id": 2,
+            "Title": "Methods",
+            "Content": "Content/Section2_Methods.md",
+            "Sections": [
+                {
+                    "Id": 21,
+                    "Content": "Content/Section2.1_Modeling_Strategy.md",
+                    "Title": "Modeling strategy"
+                },
+                {
+                    "Id": 22,
+                    "Content": "Content/Section2.2_Data.md",
+                    "Title": "Data used"
+                },
+                {
+                    "Id": 23,
+                    "Content": "Content/Section2.3_Model_Parameters_and_Assumptions.md",
+                    "Title": "Model parameters and assumptions"
+                }
+            ]
+        },
+        {
+            "Id": 3,
+            "Content": "Content/Section3_Results_and_Discussion.md",
+            "Title": "Results and Discussion",
+            "Sections": [
+                {
+                    "Id": 31,
+                    "Content": "Content/Input_table.md",
+                    "Title": "Rosuvastatin final input parameters"
+                },
+                {
+                    "Id": 32,
+                    "Content": "Content/GOF_diagnostics.md",
+                    "Title": "Rosuvastatin Diagnostics Plots"
+                },
+                {
+                    "Id": 33,
+                    "Title": "Concentration-Time Profiles",
+                    "Content": "Content/Concentration_time_profiles.md",
+                    "Sections": [
+                        {
+                            "Id": 331,
+                            "Title": "Model Building",
+                            "Content": "Content/Concentration_time_profiles_building.md"
+                        },
+                        {
+                            "Id": 332,
+                            "Title": "Model Verification",
+                            "Content": "Content/Concentration_time_profiles_verification.md"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": 4,
+            "Content": "Content/Section4_Conclusion.md",
+            "Title": "Conclusion"
+        },
+        {
+            "Id": 5,
+            "Content": "Content/References.md",
+            "Title": "References"
+        }
+    ],
+    "Intro": [
+        {
+            "Path": "Content/titlepage.md"
+        }
+    ]
+}

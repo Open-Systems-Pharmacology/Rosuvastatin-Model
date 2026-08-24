@@ -14,35 +14,35 @@ After testing the available organ-plasma partition coefficient and cell permeabi
 
 ### 2.3.3 Metabolism and Elimination
 
-One metabolic pathway was implement into the model via Michaelis-Menten kinetics 
+One metabolic pathway was implemented into the model via Michaelis-Menten kinetics 
 
 * CYP2C9
 
-The CYP2C9 expression profiles is based on high-sensitive real-time RT-PCR ([Nishimura 2003](#5-references)). Metabolic enzyme activity was described as saturable process following Michaelis-Menten kinetics, were the `Km` was taken from literature and the `kcat` was optimized based on clinical data (see [Section 2.3.4](#234-automated-parameter-identification)).
+The CYP2C9 expression profiles is based on high-sensitive real-time RT-PCR ([Nishimura 2003](#5-references)). Metabolic enzyme activity was described as saturable process following Michaelis-Menten kinetics, where the `Km` was assumed to be 1 µmol/l and the `kcat` was optimized based on clinical data (see [Section 2.3.4](#234-automated-parameter-identification)).
 
 The following transport proteins were implemented into the model with the Michaelis-Menten kinetics 
 
 * OAT3
 
-The OAT3 expression profiles is based on high-sensitive real-time RT-PCR ([Nishimura 2003](#5-references)). Transporter activity was described as saturable process following Michaelis-Menten kinetics, were the `Km` was set to 1 µmol/l and `kcat` was optimized based on clinical data (see [Section 2.3.4](#234-automated-parameter-identification)).
+The OAT3 expression profiles is based on high-sensitive real-time RT-PCR ([Nishimura 2003](#5-references)). Transporter activity was described as saturable process following Michaelis-Menten kinetics, where the `Km` was taken from literature and `kcat` was optimized based on clinical data (see [Section 2.3.4](#234-automated-parameter-identification)).
 
 * BCRP
 
-The BCRP expression profiles is based on whole genome expression arrays from ArrayExpress ([Kolesnikov 2015](#5-references)). Transporter activity was described as saturable process following Michaelis-Menten kinetics, were the `Km` was taken from literature and `kcat` was optimized based on clinical data (see [Section 2.3.4](#234-automated-parameter-identification)).
+The BCRP expression profiles is based on whole genome expression arrays from ArrayExpress ([Kolesnikov 2015](#5-references)). Transporter activity was described as saturable process following Michaelis-Menten kinetics, where the `Km` was taken from literature and `kcat` was optimized based on clinical data (see [Section 2.3.4](#234-automated-parameter-identification)).
 
 * Pgp
 
-The Pgp expression profiles is based on high-sensitive real-time RT-PCR ([Nishimura 2003](#5-references)) with an intestinal mucosa of factor 3.57 ([Hanke 2018](#5-references)). Transporter activity was described as saturable process following Michaelis-Menten kinetics, were the `Km` was taken from literature and `kcat` was optimized based on clinical data (see [Section 2.3.4](#234-automated-parameter-identification)).
+The Pgp expression profiles is based on high-sensitive real-time RT-PCR ([Nishimura 2003](#5-references)) with an intestinal mucosa of factor 3.57 ([Hanke 2018](#5-references)). Transporter activity was described as saturable process following Michaelis-Menten kinetics, where the `Km` was taken from literature and `kcat` was optimized based on clinical data (see [Section 2.3.4](#234-automated-parameter-identification)).
 
 * OATP1B1/3
 
-For OATP1B1/3 the expression profiles was considered only for OATP1B1 and is based on high-sensitive real-time RT-PCR ([Nishimura 2003](#5-references)). The reference concentration for OATP1B1 was measured by liquid chromatography tandem mass spectroscopy ([Prasad 2014](#5-references)). Transporter activity was described as saturable process following Michaelis-Menten kinetics, were the `Km` was taken from literature and `kcat` was optimized based on clinical data (see [Section 2.3.4](#234-automated-parameter-identification)).
+For OATP1B1/3 the expression profiles was considered only for OATP1B1 and is based on high-sensitive real-time RT-PCR ([Nishimura 2003](#5-references)). The reference concentration for OATP1B1 was measured by liquid chromatography tandem mass spectroscopy ([Prasad 2014](#5-references)). Transporter activity was described as saturable process following Michaelis-Menten kinetics, where the `Km` was taken from literature and `kcat` was optimized based on clinical data (see [Section 2.3.4](#234-automated-parameter-identification)).
 
 * OATP2B1
 
-The OATP2B1 expression profiles is based on whole genome expression arrays from ArrayExpress ([Kolesnikov 2015](#5-references)). Transporter activity was described as saturable process following Michaelis-Menten kinetics, were the `Km` was taken from literature and `kcat` was optimized based on clinical data (see [Section 2.3.4](#234-automated-parameter-identification)).
+The OATP2B1 expression profiles is based on whole genome expression arrays from ArrayExpress ([Kolesnikov 2015](#5-references)). Transporter activity was described as saturable process following Michaelis-Menten kinetics, where the `Km` was taken from literature and `kcat` was optimized based on clinical data (see [Section 2.3.4](#234-automated-parameter-identification)).
 
-Additionally, passive renal clearance by glomerular filtration was implemented and the `GFR fraction` was set to 1. In addition, fraction of bile that was continously released was set to 1 (`EHC continuous fraction`)
+Additionally, passive renal clearance by glomerular filtration was implemented and the `GFR fraction` was set to 1. In addition, fraction of bile that was continuously released was set to 1 (`EHC continuous fraction`)
 
 
 ### 2.3.4 Automated Parameter Identification
@@ -59,7 +59,7 @@ The following parameters were optimized by fitting the model to the data:
 | `kcat` (OATP2B1)                  |
 | `Specific intestinal permeability`| 
 | `P(intracell->interstitial) small intestine`|
-| `P(intracell->interstitial) small intestine`|
+| `P(intracell->interstitial) large intestine`|
 
 
  

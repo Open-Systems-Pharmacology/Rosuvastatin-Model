@@ -12,7 +12,7 @@ A literature search was performed to collect available information on physicoche
 | K<sub>m</sub> BCRP      | µmol/L   | 2.02      | [Kitamura 2008](#5-references)            | BCRP Michaelis-Menten constant                             |
 | K<sub>m</sub> OAT3      | µmol/L   | 7.40      | [Windass 2007](#5-references)                | OAT3 Michaelis-Menten constant                                 |
 | K<sub>m</sub> OATP2B1   | µmol/L   | 6.42      | [Kitamura 2008](#5-references)        | OATP2B1 Michaelis-Menten constant                                   |
-| K<sub>m</sub> OATP1B1/3 | µmol/L   | 0.80      | [Kitamura 2008](#5-references)          | OATP1B1/3 Michaelis-Menten connstant                                 |
+| K<sub>m</sub> OATP1B1/3 | µmol/L   | 0.80      | [Kitamura 2008](#5-references)          | OATP1B1/3 Michaelis-Menten constant                                 |
 | K<sub>m</sub> Pgp       | µmol/L   | 203       | [Goard 2010](#5-references)            | Pgp Michaelis-Menten constant                             |
 | Weibull shape           | -        | 1.77      | [Seo 2019](#5-references)            | Dissolution profile shape                             |
 | Weibull time            | min      | 6.25      | [Seo 2019](#5-references)            | Dissolution time (50% dissolved)                            |
@@ -50,8 +50,8 @@ The following dosing scenarios were simulated and compared to respective data fo
 
 | Scenario                                                     | Data reference                       |
 | ------------------------------------------------------------ | ------------------------------------ |
-| po 0.05                         | [Prueksaritanont 2017](#5-references) |
-| po 5                                  | [Prueksaritanont 2014](#5-references) |
+| po 0.05 mg                         | [Prueksaritanont 2017](#5-references) |
+| po 5 mg                                  | [Prueksaritanont 2014](#5-references) |
 | po 10 mg                                   | [Cooper 2003b](#5-references), [Csonka 2019](#5-references), [Huguet 2016](#5-references), [Martin 2003b](#5-references), [Stopfer 2018a](#5-references), [Wiebe 2020](#5-references) and [Coss 2016](#5-references) |
 | po 20 mg                              | [Martin 2003d](#5-references), [FDA 2003](#5-references), [Edwards 2017](#5-references), [Martin 2003b](#5-references), [Birmingham 2015](#5-references), [Jones 2020](#5-references), [Lee 2018](#5-references), [Martin 2016](#5-references) and [Willis 2020](#5-references) |
 | po 40 mg                              | [Martin 2002a ](#5-references), [Martin 2003b](#5-references) and [Lee 2005](#5-references)|

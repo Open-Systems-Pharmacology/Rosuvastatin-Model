@@ -9,7 +9,7 @@ The model quantifies excretion via urine and bile (by glomerular filtration and 
 
 The next sections show:
 
-1. the final model input parameters for the building blocks: [Section 3.1](#31-probenecid-final-input-parameters).
-2. the overall goodness of fit: [Section 3.2](#32-probenecid-diagnostics-plots).
+1. the final model input parameters for the building blocks: [Section 3.1](#31-rosuvastatin-final-input-parameters).
+2. the overall goodness of fit: [Section 3.2](#32-rosuvastatin-diagnostics-plots).
 3. simulated vs. observed concentration-time profiles for the clinical studies used for model building and for model verification: [Section 3.3](#33-concentration-time-profiles).
 

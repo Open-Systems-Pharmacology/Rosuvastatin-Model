@@ -157,3 +157,4 @@ createQualificationReport <- function(qualificationRunnerFolder,
     print(paste0("Qualification Workflow Total Duration: ", round((toc - tic) / 60, 1), " minutes"))
   }
   return(invisible())
+}

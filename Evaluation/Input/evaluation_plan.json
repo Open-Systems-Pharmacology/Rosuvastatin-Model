@@ -1,4 +1,4 @@
-﻿{
+﻿ {
     "$schema": "https://github.com/Open-Systems-Pharmacology/QualificationPlan/releases/download/v3.1/OSP_Qualification_Plan_Schema.json",
     "Projects": [
         {
@@ -162,12 +162,12 @@
             {
                 "Project": "Rosuvastatin",
                 "Simulation": "po 10 mg, Stopfer 2018a, tab, n=13",
-                "SectionId": 331
+                "SectionId": 332
             },
             {
                 "Project": "Rosuvastatin",
                 "Simulation": "po 10 mg, Stopfer 2018b, tab, n=25",
-                "SectionId": 332
+                "SectionId": 331
             },
             {
                 "Project": "Rosuvastatin",
@@ -181,7 +181,7 @@
             },
             {
                 "Project": "Rosuvastatin",
-                "Simulation": "po 20 mg, FDA 2002, caps, n=6",
+                "Simulation": "po 20 mg, FDA 2003, caps, n=6",
                 "SectionId": 331
             },
             {
@@ -281,7 +281,7 @@
             },
             {
                 "Project": "Rosuvastatin",
-                "Simulation": "po 20 mg QD, FDA 2002, caps, n=6",
+                "Simulation": "po 20 mg QD, FDA 2003, caps, n=6",
                 "SectionId": 332
             },
             {
@@ -344,9 +344,9 @@
                             },
                             {
                                 "Project": "Rosuvastatin",
-                                "Simulation": "po 20 mg, FDA 2002, caps, n=6",
+                                "Simulation": "po 20 mg, FDA 2003, caps, n=6",
                                 "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "FDA 2002 - PO Rosuvastatin 20 mg control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)",
+                                "ObservedData": "FDA 2003 - PO Rosuvastatin 20 mg control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)",
                                 "Color": "#000000"
                             },
                             {
@@ -560,9 +560,9 @@
                             },
                             {
                                 "Project": "Rosuvastatin",
-                                "Simulation": "po 20 mg QD, FDA 2002, caps, n=6",
+                                "Simulation": "po 20 mg QD, FDA 2003, caps, n=6",
                                 "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "FDA 2002 - PO Rosuvastatin 20 mg QD control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)",
+                                "ObservedData": "FDA 2003 - PO Rosuvastatin 20 mg QD control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)",
                                 "Color": "#000000"
                             },
                             {

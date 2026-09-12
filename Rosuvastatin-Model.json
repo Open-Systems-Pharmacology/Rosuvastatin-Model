@@ -43436,7 +43436,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "P-gp",
-      "Category": "FDA 2002, Rosuvastatin po 20 mg, n=6",
+      "Category": "FDA 2003, Rosuvastatin po 20 mg, n=6",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|P-gp|Relative expression",
@@ -43772,7 +43772,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OATP1B1",
-      "Category": "FDA 2002, Rosuvastatin po 20 mg, n=6",
+      "Category": "FDA 2003, Rosuvastatin po 20 mg, n=6",
       "Parameters": [
         {
           "Path": "OATP1B1|Reference concentration",
@@ -44047,7 +44047,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OATP1B3",
-      "Category": "FDA 2002, Rosuvastatin po 20 mg, n=6",
+      "Category": "FDA 2003, Rosuvastatin po 20 mg, n=6",
       "Parameters": [
         {
           "Path": "OATP1B3|Reference concentration",
@@ -44390,7 +44390,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "AADAC",
-      "Category": "FDA 2002, Rosuvastatin po 20 mg, n=6",
+      "Category": "FDA 2003, Rosuvastatin po 20 mg, n=6",
       "Parameters": [
         {
           "Path": "AADAC|Reference concentration",
@@ -44514,7 +44514,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP3A4",
-      "Category": "FDA 2002, Rosuvastatin po 20 mg, n=6",
+      "Category": "FDA 2003, Rosuvastatin po 20 mg, n=6",
       "Parameters": [
         {
           "Path": "CYP3A4|Reference concentration",
@@ -44589,7 +44589,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "MATE1",
-      "Category": "FDA 2002, Rosuvastatin po 20 mg, n=6",
+      "Category": "FDA 2003, Rosuvastatin po 20 mg, n=6",
       "Parameters": [
         {
           "Path": "MATE1|Reference concentration",
@@ -44840,7 +44840,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OCT1",
-      "Category": "FDA 2002, Rosuvastatin po 20 mg, n=6",
+      "Category": "FDA 2003, Rosuvastatin po 20 mg, n=6",
       "Parameters": [
         {
           "Path": "OCT1|Reference concentration",
@@ -45167,7 +45167,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OCT2",
-      "Category": "FDA 2002, Rosuvastatin po 20 mg, n=6",
+      "Category": "FDA 2003, Rosuvastatin po 20 mg, n=6",
       "Parameters": [
         {
           "Path": "OCT2|Reference concentration",
@@ -45422,7 +45422,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "PMAT",
-      "Category": "FDA 2002, Rosuvastatin po 20 mg, n=6",
+      "Category": "FDA 2003, Rosuvastatin po 20 mg, n=6",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|PMAT|Relative expression",
@@ -45742,7 +45742,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OAT3",
-      "Category": "FDA 2002, Rosuvastatin po 20 mg, n=6",
+      "Category": "FDA 2003, Rosuvastatin po 20 mg, n=6",
       "Parameters": [
         {
           "Path": "OAT3|Reference concentration",
@@ -46005,7 +46005,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP2C9",
-      "Category": "FDA 2002, Rosuvastatin po 20 mg, n=6",
+      "Category": "FDA 2003, Rosuvastatin po 20 mg, n=6",
       "Parameters": [
         {
           "Path": "CYP2C9|Reference concentration",
@@ -46080,7 +46080,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "BCRP",
-      "Category": "FDA 2002, Rosuvastatin po 20 mg, n=6",
+      "Category": "FDA 2003, Rosuvastatin po 20 mg, n=6",
       "Parameters": [
         {
           "Path": "BCRP|Reference concentration",
@@ -46423,7 +46423,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OATP2B1",
-      "Category": "FDA 2002, Rosuvastatin po 20 mg, n=6",
+      "Category": "FDA 2003, Rosuvastatin po 20 mg, n=6",
       "Parameters": [
         {
           "Path": "OATP2B1|Reference concentration",
@@ -46766,7 +46766,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OSTa/b",
-      "Category": "FDA 2002, Rosuvastatin po 20 mg, n=6",
+      "Category": "FDA 2003, Rosuvastatin po 20 mg, n=6",
       "Parameters": [
         {
           "Path": "Organism|Gonads|Intracellular|OSTa/b|Relative expression",
@@ -47078,7 +47078,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "UGT",
-      "Category": "FDA 2002, Rosuvastatin po 20 mg, n=6",
+      "Category": "FDA 2003, Rosuvastatin po 20 mg, n=6",
       "Parameters": [
         {
           "Path": "Organism|Kidney|Intracellular|UGT|Relative expression",
@@ -112749,7 +112749,7 @@
       ]
     },
     {
-      "Name": "FDA 2002, Rosuvastatin po 20 mg, n=6",
+      "Name": "FDA 2003, Rosuvastatin po 20 mg, n=6",
       "Seed": 265097078,
       "OriginData": {
         "CalculationMethods": [
@@ -112774,21 +112774,21 @@
         }
       ],
       "ExpressionProfiles": [
-        "P-gp|Human|FDA 2002, Rosuvastatin po 20 mg, n=6",
-        "OATP1B1|Human|FDA 2002, Rosuvastatin po 20 mg, n=6",
-        "OATP1B3|Human|FDA 2002, Rosuvastatin po 20 mg, n=6",
-        "AADAC|Human|FDA 2002, Rosuvastatin po 20 mg, n=6",
-        "CYP3A4|Human|FDA 2002, Rosuvastatin po 20 mg, n=6",
-        "MATE1|Human|FDA 2002, Rosuvastatin po 20 mg, n=6",
-        "OCT1|Human|FDA 2002, Rosuvastatin po 20 mg, n=6",
-        "OCT2|Human|FDA 2002, Rosuvastatin po 20 mg, n=6",
-        "PMAT|Human|FDA 2002, Rosuvastatin po 20 mg, n=6",
-        "OAT3|Human|FDA 2002, Rosuvastatin po 20 mg, n=6",
-        "CYP2C9|Human|FDA 2002, Rosuvastatin po 20 mg, n=6",
-        "BCRP|Human|FDA 2002, Rosuvastatin po 20 mg, n=6",
-        "OATP2B1|Human|FDA 2002, Rosuvastatin po 20 mg, n=6",
-        "OSTa/b|Human|FDA 2002, Rosuvastatin po 20 mg, n=6",
-        "UGT|Human|FDA 2002, Rosuvastatin po 20 mg, n=6"
+        "P-gp|Human|FDA 2003, Rosuvastatin po 20 mg, n=6",
+        "OATP1B1|Human|FDA 2003, Rosuvastatin po 20 mg, n=6",
+        "OATP1B3|Human|FDA 2003, Rosuvastatin po 20 mg, n=6",
+        "AADAC|Human|FDA 2003, Rosuvastatin po 20 mg, n=6",
+        "CYP3A4|Human|FDA 2003, Rosuvastatin po 20 mg, n=6",
+        "MATE1|Human|FDA 2003, Rosuvastatin po 20 mg, n=6",
+        "OCT1|Human|FDA 2003, Rosuvastatin po 20 mg, n=6",
+        "OCT2|Human|FDA 2003, Rosuvastatin po 20 mg, n=6",
+        "PMAT|Human|FDA 2003, Rosuvastatin po 20 mg, n=6",
+        "OAT3|Human|FDA 2003, Rosuvastatin po 20 mg, n=6",
+        "CYP2C9|Human|FDA 2003, Rosuvastatin po 20 mg, n=6",
+        "BCRP|Human|FDA 2003, Rosuvastatin po 20 mg, n=6",
+        "OATP2B1|Human|FDA 2003, Rosuvastatin po 20 mg, n=6",
+        "OSTa/b|Human|FDA 2003, Rosuvastatin po 20 mg, n=6",
+        "UGT|Human|FDA 2003, Rosuvastatin po 20 mg, n=6"
       ]
     },
     {
@@ -114993,7 +114993,7 @@
       "TimeUnit": "h"
     },
     {
-      "Name": "po 20 mg QD, FDA 2002",
+      "Name": "po 20 mg QD, FDA 2003",
       "DosingInterval": "Single",
       "Schemas": [
         {
@@ -120690,10 +120690,10 @@
       ]
     },
     {
-      "Name": "po 20 mg, FDA 2002, caps, n=6",
+      "Name": "po 20 mg, FDA 2003, caps, n=6",
       "Model": "4Comp",
       "ObservedData": [
-        "FDA 2002 - PO Rosuvastatin 20 mg control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)"
+        "FDA 2003 - PO Rosuvastatin 20 mg control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -120879,11 +120879,11 @@
       "OutputMappings": [
         {
           "Scaling": "Log",
-          "Path": "po 20 mg, FDA 2002, caps, n=6|Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
-          "ObservedData": "FDA 2002 - PO Rosuvastatin 20 mg control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)"
+          "Path": "po 20 mg, FDA 2003, caps, n=6|Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "FDA 2003 - PO Rosuvastatin 20 mg control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)"
         }
       ],
-      "Individual": "FDA 2002, Rosuvastatin po 20 mg, n=6",
+      "Individual": "FDA 2003, Rosuvastatin po 20 mg, n=6",
       "Compounds": [
         {
           "Name": "Rosuvastatin",
@@ -120991,18 +120991,18 @@
           ],
           "Curves": [
             {
-              "Name": "po 20 mg, FDA 2002, caps, n=6-Rosuvastatin-Peripheral Venous Blood-Plasma-Concentration",
+              "Name": "po 20 mg, FDA 2003, caps, n=6-Rosuvastatin-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Time",
-              "Y": "po 20 mg, FDA 2002, caps, n=6|Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+              "Y": "po 20 mg, FDA 2003, caps, n=6|Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "FDA 2002 - PO Rosuvastatin 20 mg control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)-Rosuvastatin-Peripheral Venous Blood-Plasma-GeometricMean",
-              "X": "FDA 2002 - PO Rosuvastatin 20 mg control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)|Time",
-              "Y": "FDA 2002 - PO Rosuvastatin 20 mg control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)|ObservedData|Peripheral Venous Blood|Plasma|Rosuvastatin|GeometricMean",
+              "Name": "FDA 2003 - PO Rosuvastatin 20 mg control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)-Rosuvastatin-Peripheral Venous Blood-Plasma-GeometricMean",
+              "X": "FDA 2003 - PO Rosuvastatin 20 mg control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)|Time",
+              "Y": "FDA 2003 - PO Rosuvastatin 20 mg control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)|ObservedData|Peripheral Venous Blood|Plasma|Rosuvastatin|GeometricMean",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 2,
@@ -121011,7 +121011,7 @@
               }
             }
           ],
-          "Name": "FDA 2002 - PO Rosuvastatin 20 mg control",
+          "Name": "FDA 2003 - PO Rosuvastatin 20 mg control",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -121029,7 +121029,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Rosuvastatin_34\npo 20 mg, FDA 2002, caps, n=6\n2020-11-17 11:08"
+          "OriginText": "Rosuvastatin_34\npo 20 mg, FDA 2003, caps, n=6\n2020-11-17 11:08"
         }
       ]
     },
@@ -129962,10 +129962,10 @@
       ]
     },
     {
-      "Name": "po 20 mg QD, FDA 2002, caps, n=6",
+      "Name": "po 20 mg QD, FDA 2003, caps, n=6",
       "Model": "4Comp",
       "ObservedData": [
-        "FDA 2002 - PO Rosuvastatin 20 mg QD control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)"
+        "FDA 2003 - PO Rosuvastatin 20 mg QD control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -130053,72 +130053,72 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|po 20 mg QD, FDA 2002|Tablet (Rosuvastatin)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|po 20 mg QD, FDA 2003|Tablet (Rosuvastatin)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|po 20 mg QD, FDA 2002|Tablet (Rosuvastatin)|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|po 20 mg QD, FDA 2003|Tablet (Rosuvastatin)|Application_10|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|po 20 mg QD, FDA 2002|Tablet (Rosuvastatin)|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|po 20 mg QD, FDA 2003|Tablet (Rosuvastatin)|Application_11|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|po 20 mg QD, FDA 2002|Tablet (Rosuvastatin)|Application_12|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|po 20 mg QD, FDA 2003|Tablet (Rosuvastatin)|Application_12|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|po 20 mg QD, FDA 2002|Tablet (Rosuvastatin)|Application_13|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|po 20 mg QD, FDA 2003|Tablet (Rosuvastatin)|Application_13|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|po 20 mg QD, FDA 2002|Tablet (Rosuvastatin)|Application_14|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|po 20 mg QD, FDA 2003|Tablet (Rosuvastatin)|Application_14|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|po 20 mg QD, FDA 2002|Tablet (Rosuvastatin)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|po 20 mg QD, FDA 2003|Tablet (Rosuvastatin)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|po 20 mg QD, FDA 2002|Tablet (Rosuvastatin)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|po 20 mg QD, FDA 2003|Tablet (Rosuvastatin)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|po 20 mg QD, FDA 2002|Tablet (Rosuvastatin)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|po 20 mg QD, FDA 2003|Tablet (Rosuvastatin)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|po 20 mg QD, FDA 2002|Tablet (Rosuvastatin)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|po 20 mg QD, FDA 2003|Tablet (Rosuvastatin)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|po 20 mg QD, FDA 2002|Tablet (Rosuvastatin)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|po 20 mg QD, FDA 2003|Tablet (Rosuvastatin)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|po 20 mg QD, FDA 2002|Tablet (Rosuvastatin)|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|po 20 mg QD, FDA 2003|Tablet (Rosuvastatin)|Application_7|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|po 20 mg QD, FDA 2002|Tablet (Rosuvastatin)|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|po 20 mg QD, FDA 2003|Tablet (Rosuvastatin)|Application_8|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|po 20 mg QD, FDA 2002|Tablet (Rosuvastatin)|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|po 20 mg QD, FDA 2003|Tablet (Rosuvastatin)|Application_9|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -130239,11 +130239,11 @@
       "OutputMappings": [
         {
           "Scaling": "Log",
-          "Path": "po 20 mg QD, FDA 2002, caps, n=6|Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
-          "ObservedData": "FDA 2002 - PO Rosuvastatin 20 mg QD control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)"
+          "Path": "po 20 mg QD, FDA 2003, caps, n=6|Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "FDA 2003 - PO Rosuvastatin 20 mg QD control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)"
         }
       ],
-      "Individual": "FDA 2002, Rosuvastatin po 20 mg, n=6",
+      "Individual": "FDA 2003, Rosuvastatin po 20 mg, n=6",
       "Compounds": [
         {
           "Name": "Rosuvastatin",
@@ -130306,7 +130306,7 @@
             }
           ],
           "Protocol": {
-            "Name": "po 20 mg QD, FDA 2002",
+            "Name": "po 20 mg QD, FDA 2003",
             "Formulations": [
               {
                 "Name": "Tablet (Rosuvastatin)",
@@ -130349,18 +130349,18 @@
           ],
           "Curves": [
             {
-              "Name": "po 20 mg QD, FDA 2002, caps, n=6-Rosuvastatin-Peripheral Venous Blood-Plasma-Concentration",
+              "Name": "po 20 mg QD, FDA 2003, caps, n=6-Rosuvastatin-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Time",
-              "Y": "po 20 mg QD, FDA 2002, caps, n=6|Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
+              "Y": "po 20 mg QD, FDA 2003, caps, n=6|Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "FDA 2002 - PO Rosuvastatin 20 mg QD control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)-Rosuvastatin-Peripheral Venous Blood-Plasma-GeometricMean",
-              "X": "FDA 2002 - PO Rosuvastatin 20 mg QD control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)|Time",
-              "Y": "FDA 2002 - PO Rosuvastatin 20 mg QD control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)|ObservedData|Peripheral Venous Blood|Plasma|Rosuvastatin|GeometricMean",
+              "Name": "FDA 2003 - PO Rosuvastatin 20 mg QD control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)-Rosuvastatin-Peripheral Venous Blood-Plasma-GeometricMean",
+              "X": "FDA 2003 - PO Rosuvastatin 20 mg QD control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)|Time",
+              "Y": "FDA 2003 - PO Rosuvastatin 20 mg QD control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)|ObservedData|Peripheral Venous Blood|Plasma|Rosuvastatin|GeometricMean",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 2,
@@ -130369,7 +130369,7 @@
               }
             }
           ],
-          "Name": "FDA 2002 - PO Rosuvastatin 20 mg QD control",
+          "Name": "FDA 2003 - PO Rosuvastatin 20 mg QD control",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -130387,7 +130387,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Rosuvastatin_34\npo 20 mg QD, FDA 2002, caps, n=6\n2020-11-17 11:37"
+          "OriginText": "Rosuvastatin_34\npo 20 mg QD, FDA 2003, caps, n=6\n2020-11-17 11:37"
         }
       ]
     }
@@ -132693,7 +132693,7 @@
       }
     },
     {
-      "Name": "FDA 2002 - PO Rosuvastatin 20 mg QD control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)",
+      "Name": "FDA 2003 - PO Rosuvastatin 20 mg QD control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)",
       "ExtendedProperties": [
         {
           "Name": "DB Version",
@@ -132707,7 +132707,7 @@
         },
         {
           "Name": "Study Id",
-          "Value": "FDA 2002",
+          "Value": "FDA 2003",
           "Type": "String"
         },
         {
@@ -132790,7 +132790,7 @@
         {
           "Name": "Avg",
           "QuantityInfo": {
-            "Path": "FDA 2002 - PO Rosuvastatin 20 mg QD control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)|ObservedData|Peripheral Venous Blood|Plasma|Rosuvastatin|GeometricMean"
+            "Path": "FDA 2003 - PO Rosuvastatin 20 mg QD control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)|ObservedData|Peripheral Venous Blood|Plasma|Rosuvastatin|GeometricMean"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -132822,7 +132822,7 @@
       "BaseGrid": {
         "Name": "Time",
         "QuantityInfo": {
-          "Path": "FDA 2002 - PO Rosuvastatin 20 mg QD control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)|Time",
+          "Path": "FDA 2003 - PO Rosuvastatin 20 mg QD control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)|Time",
           "Type": "Time"
         },
         "DataInfo": {
@@ -134159,7 +134159,7 @@
       }
     },
     {
-      "Name": "FDA 2002 - PO Rosuvastatin 20 mg control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)",
+      "Name": "FDA 2003 - PO Rosuvastatin 20 mg control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)",
       "ExtendedProperties": [
         {
           "Name": "DB Version",
@@ -134173,7 +134173,7 @@
         },
         {
           "Name": "Study Id",
-          "Value": "FDA 2002",
+          "Value": "FDA 2003",
           "Type": "String"
         },
         {
@@ -134256,7 +134256,7 @@
         {
           "Name": "Avg",
           "QuantityInfo": {
-            "Path": "FDA 2002 - PO Rosuvastatin 20 mg control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)|ObservedData|Peripheral Venous Blood|Plasma|Rosuvastatin|GeometricMean"
+            "Path": "FDA 2003 - PO Rosuvastatin 20 mg control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)|ObservedData|Peripheral Venous Blood|Plasma|Rosuvastatin|GeometricMean"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -134287,7 +134287,7 @@
       "BaseGrid": {
         "Name": "Time",
         "QuantityInfo": {
-          "Path": "FDA 2002 - PO Rosuvastatin 20 mg control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)|Time",
+          "Path": "FDA 2003 - PO Rosuvastatin 20 mg control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)|Time",
           "Type": "Time"
         },
         "DataInfo": {
@@ -140287,7 +140287,7 @@
         "po  5.0 mg, Prueksaritanont 2014, -, n=8",
         "po 10 mg, Coss 2016, -, n=49",
         "po 20 mg, Martin 2003d, sol, n=6",
-        "po 20 mg, FDA 2002, caps, n=6",
+        "po 20 mg, FDA 2003, caps, n=6",
         "po 20 mg, Edwards 2017, tab, n=48",
         "po 20 mg, Jones 2020, -, n=16",
         "po 20 mg, Martin 2003b, tab, n=9",
@@ -140318,7 +140318,7 @@
         "po 10 mg QD, Martin 2002b, -, n=21",
         "po 10 mg QD, Kosoglou 2004, -, n=12",
         "po 20 mg QD, FDA 2018, -, n=10",
-        "po 20 mg QD, FDA 2002, caps, n=6"
+        "po 20 mg QD, FDA 2003, caps, n=6"
       ]
     }
   ]
